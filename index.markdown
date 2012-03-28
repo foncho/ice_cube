@@ -1,7 +1,7 @@
 ---
 title: seejohnrun/ice_cube @ GitHub
 layout: default
-tagline: Fast querying and expansion of recurrence rules in Ruby
+tagline: Fast querying and expansion of date recurrence rules in Ruby
 ---
 
 {% include get_ice_cube.markdown %}
